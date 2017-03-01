@@ -1,5 +1,7 @@
 #!/bin/zsh
 # zsh prefs - this file is sources by ~/.zshrc
+export LS_COLORS="rs=0:di=30:ln=94:mh=00:pi=40;36;5;11:so=36;5;13:do=36;5;5:bd=48;5;232;36;5;11:cd=48;5;232;36;5;3:or=48;5;232;36;5;9:mi=01;05;37;41:su=48;5;196;36;5;15:sg=48;5;11;36;5;16:ca=48;5;196;36;5;226:tw=48;5;10;36;5;16:ow=48;5;10;36;5;21:st=48;5;21;36;5;15:ex=01:no=00"
+
 HISTFILE=~/.histfile
 HISTSIZE=10000
 SAVEHIST=10000
@@ -10,3 +12,5 @@ bindkey -e '^[h' backward-kill-word
 alias history="history 1"
 alias ff="emacsclient -nw"
 
+xrdb ~/.Xresources
+ 
