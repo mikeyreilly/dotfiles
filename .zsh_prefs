@@ -1,0 +1,12 @@
+#!/bin/zsh
+# zsh prefs - this file is sources by ~/.zshrc
+HISTFILE=~/.histfile
+HISTSIZE=10000
+SAVEHIST=10000
+setopt appendhistory autocd extendedglob nomatch notify
+setopt interactivecomments
+unsetopt beep
+bindkey -e '^[h' backward-kill-word
+alias history="history 1"
+alias ff="emacsclient -nw"
+

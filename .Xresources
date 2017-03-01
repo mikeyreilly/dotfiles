@@ -1,0 +1,45 @@
+URxvt.perl-ext-common: "default, -searchable-scrollback"
+URxvt.font: xft:monospace:size=12
+URxvt*termName: rxvt-unicode-256color
+URxvt.scrollBar : false
+URxvt.background : #000000
+URxvt.foreground : #DCDC80
+URxvt.color1 : #BC0000
+URxvt.color2 : #00B2BB
+URxvt.color3 : #008800
+URxvt.color4 : #F0B100
+URxvt.color5 : #66ff66
+URxvt.color6 : #50B3B3
+URxvt.color7 : #A0A0A0
+URxvt.color8 : #DC0000
+URxvt.color9 : #F0b100
+URxvt.color10 : #D09A00
+URxvt.color11 : #DCDC80
+URxvt.color12 : #609EF3
+URxvt.color13 : #DCDC00
+URxvt.color14 : #00CAD3
+URxvt.color15 : #AC0000
+URxvt.color16 : #009F00
+URxvt.color17 : #000438
+URxvt.color18 : #555500
+URxvt.color19 : #888800
+URxvt.color20 : #E0A500
+URxvt.color21 : #CC9393
+URxvt.color22 : #00D800
+URxvt.color23 : #00DAE3
+URxvt.color24 : #656500
+URxvt.color25 : #007F00
+URxvt.color26 : #003655
+URxvt.color27 : #00EB00
+URxvt.color28 : #006EF3
+URxvt.color29 : #DC0097
+URxvt.color30 : #00B200
+URxvt.color31 : #005500
+URxvt.color32 : #00828B
+URxvt.color33 : #880000
+URxvt.color34 : #8C0000
+URxvt.color35 : #FFFF00
+URxvt.color36 : #426377
+URxvt.color37 : #00C500
+URxvt.color38 : #006060
+
