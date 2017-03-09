@@ -149,3 +149,4 @@ bar {
 
 exec xmodmap ~/.Xmodmap
 exec xrdb .Xresouces
+exec mikey_local_prefs
