@@ -1,3 +1,4 @@
+Xft.dpi: 192
 URxvt.perl-ext-common: "default, -searchable-scrollback"
 URxvt.font: xft:monospace:size=12
 URxvt*termName: rxvt-unicode-256color
